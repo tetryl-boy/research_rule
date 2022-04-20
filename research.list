@@ -55,9 +55,9 @@ HOST-SUFFIX,iop.org,IOP
 HOST-SUFFIX,taylorfrancis.com,taylorfrancis
 HOST-SUFFIX,tandfonline.com,tandfonline
 HOST-SUFFIX,degruyter.com,degruyter
-HOST-SUFFIX,osapublishing.org
+HOST-SUFFIX,osapublishing.org,OSA
 HOST-SUFFIX,gale.com,GALE
-HOST-SUFFIX,ovid.comOVID
+HOST-SUFFIX,ovid.com,OVID
 HOST-SUFFIX,worldscientific.com,WOL
 HOST-SUFFIX,oup.com,OUP
 HOST-SUFFIX,siam.org,SIAM
