@@ -1,5 +1,5 @@
-# NAME: CNKI
-# AUTHOR: blackmatrix7
+# NAME: RESEARCH
+# AUTHOR: QINAN
 # REPO: https://github.com/blackmatrix7/ios_rule_script
 # UPDATED: 2022-01-18 23:33:28
 # HOST-SUFFIX: 17
@@ -22,3 +22,44 @@ HOST-SUFFIX,wuxizazhi.com.cn,CNKI
 HOST-SUFFIX,wuxizazhi.net,CNKI
 HOST-SUFFIX,wuxizazhi.net.cn,CNKI
 HOST-SUFFIX,pubs.acs.org,ACS
+HOST-SUFFIX,acm.org
+HOST-SUFFIX,gtadata.com
+HOST-SUFFIX,jstor.org
+HOST-SUFFIX,webofscience.com
+HOST-SUFFIX,inoteexpress.com
+HOST-SUFFIX,pnas.org
+HOST-SUFFIX,cnpereading.com
+HOST-SUFFIX,sciencemag.org
+HOST-SUFFIX,cas.org
+HOST-SUFFIX,webofknowledge.com
+HOST-SUFFIX,pkulaw.com
+HOST-SUFFIX,sslibrary.com
+HOST-SUFFIX,serialssolutions.com
+HOST-SUFFIX,duxiu.com
+HOST-SUFFIX,wanfangdata.com.cn
+HOST-SUFFIX,koolearn.com
+HOST-SUFFIX,cssci.nju.edu.cn
+HOST-SUFFIX,nature.com
+HOST-SUFFIX,clarivate.com
+HOST-SUFFIX,webofscience.com
+HOST-SUFFIX,http://academic.eb.cnpeak.com/
+HOST-SUFFIX,sciencedirect.com
+HOST-SUFFIX,cambridge.org
+HOST-SUFFIX,cas.org
+HOST-SUFFIX,pubs.rsc.org
+HOST-SUFFIX,ieee.org
+HOST-SUFFIX,springer.com
+HOST-SUFFIX,wiley.com
+HOST-SUFFIX,journals.aps.org
+HOST-SUFFIX,emerald.com
+HOST-SUFFIX,proquest.com
+HOST-SUFFIX,iop.org
+HOST-SUFFIX,taylorfrancis.com
+HOST-SUFFIX,tandfonline.com
+HOST-SUFFIX,degruyter.com
+HOST-SUFFIX,osapublishing.org
+HOST-SUFFIX,gale.com
+HOST-SUFFIX,ovid.com
+HOST-SUFFIX,worldscientific.com
+HOST-SUFFIX,oup.com
+HOST-SUFFIX,siam.org
